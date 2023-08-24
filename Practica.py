@@ -1,2 +1,1 @@
 # Mis practicas
-practica diaria
